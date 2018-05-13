@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "A Custom Boilerplate for React Projects",
   "main": "lib/server.js",
-  "repository": "git@github.com:mojaray2k/amen-ra-react-boilerplate.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/amen-ra-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojaray2k/amen-ra-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/amen-ra-react-boilerplate#readme",
   "author": "Amen Ra",
   "license": "MIT",
   "scripts": {

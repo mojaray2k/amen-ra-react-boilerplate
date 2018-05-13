@@ -2,6 +2,14 @@
   "name": "state-api",
   "version": "1.0.0",
   "description": "State API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/DataApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojaray2k/DataApi/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/DataApi#readme",
   "main": "lib/index.js",
   "author": "Amen Ra",
   "license": "MIT"
