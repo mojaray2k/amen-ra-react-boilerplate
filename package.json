@@ -1,10 +1,10 @@
 {
-  "name": "advanced-react",
+  "name": "amen-ra-react-boilerplate",
   "version": "1.0.0",
-  "description": "Advanced React",
+  "description": "A Custom Boilerplate for React Projects",
   "main": "lib/server.js",
-  "repository": "jscomplete/advanced-react",
-  "author": "Samer Buna",
+  "repository": "git@github.com:mojaray2k/amen-ra-react-boilerplate.git",
+  "author": "Amen Ra",
   "license": "MIT",
   "scripts": {
     "dev": "NODE_PATH=./lib pm2 start lib/server.js --watch --interpreter babel-node",
